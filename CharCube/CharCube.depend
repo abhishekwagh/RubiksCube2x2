@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1431765355 source:e:\wagh's\abhi\cube 2x2\charcube\main.c
+	<stdio.h>
+	<conio.h>
+
+1431348239 source:e:\wagh's\abhi\cube 2x2\charcube\printface.c
+
+1431519189 source:e:\wagh's\abhi\cube 2x2\charcube\base.c
+
+1431348249 source:e:\wagh's\abhi\cube 2x2\charcube\clock.c
+
+1431348341 source:e:\wagh's\abhi\cube 2x2\charcube\front.c
+
+1431349162 source:e:\wagh's\abhi\cube 2x2\charcube\back.c
+
+1431349898 source:e:\wagh's\abhi\cube 2x2\charcube\up.c
+
+1431358997 source:e:\wagh's\abhi\cube 2x2\charcube\printallface.c
+
+1431350397 source:e:\wagh's\abhi\cube 2x2\charcube\down.c
+
+1431350759 source:e:\wagh's\abhi\cube 2x2\charcube\left.c
+
+1431351191 source:e:\wagh's\abhi\cube 2x2\charcube\right.c
+
+1431764784 source:e:\wagh's\abhi\cube 2x2\charcube\ollcases.c
+
+1431765980 source:e:\wagh's\abhi\cube 2x2\charcube\pllcases.c
+
+1431764976 source:e:\wagh's\abhi\cube 2x2\charcube\final.c
+
+1431763510 source:e:\wagh's\abhi\cube 2x2\charcube\instruct.c
+
